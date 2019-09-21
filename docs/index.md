@@ -1,4 +1,6 @@
-# Liste des applications
+
+
+# Liste des applications du projet : End Game
 
 * [Business intelligence](https://ursi-2020.github.io/business-intelligence)
 * [CRM](https://ursi-2020.github.io/crm)
@@ -10,3 +12,7 @@
 * [Gestion promotion](https://ursi-2020.github.io/gestion-promotion)
 * [Gestion stock](https://ursi-2020.github.io/gestion-stock)
 * [Magasin](https://ursi-2020.github.io/gestion-magasin)
+
+# Liste des guides
+
+* [Création de documentation](create-doc.md)
