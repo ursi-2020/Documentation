@@ -10,6 +10,7 @@ GitHub Pages est l'outil permettant de documenter le projet *End Game*.
 2. Activer *GitHub Pages* dans les settings du repository (settings/options/GitHub Pages)
 3. Changer le thème et sélectionner *Cayman*
 4. Définir la source comme étant *master branch /docs folder*
+5. La root de votre documentation est le fichier `index.md`
 
 *Configuration finale*
 ![img](img/gp-conf.PNG)
