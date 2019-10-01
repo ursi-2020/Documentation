@@ -23,9 +23,10 @@
 Représentation de l'ensemble des flux du système d'information.
 
 Pour voir les flux relatifs à votre application :
-1. Cliquer sur :
+1. Passer son curseur sur le diagramme
+2. Cliquer sur :
 ![alt text](img/layers.png)
-2. Cocher la case de votre application
+3. Cocher la case de votre application
 
 Il est conseillé de consulter ce diagramme en mode pleine écran :
 * Cliquer sur :
