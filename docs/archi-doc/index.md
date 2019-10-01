@@ -3,7 +3,6 @@
 Voici un exemple de documentation pour une application.
 
 *[API](api.md)*
-*[Anciennes versions des Uses Cases](use-case.md)*
 
 # Rôle de l'application
 
@@ -12,6 +11,8 @@ Le rôle des urbanistes est de s'assurer que les applications répondent aux sp�
 Pour ce faire, ils s'assurent de la cohérence de l'architecture du système d'information et de coordonnent les différentes équipes de la classe.
 
 # Use Case
+
+*[Anciennes versions des Uses Cases](use-case.md)*
 
 ![use case](img/use-case.png)
 
