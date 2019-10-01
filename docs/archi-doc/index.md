@@ -1,8 +1,9 @@
 [Sommaire](https://ursi-2020.github.io/Documentation/)
 
-*Voici un exemple 
+Voici un exemple de documentation pour une application.
 
 *[API](api.md)*
+*[Anciennes versions des Uses Cases](use-case.md)*
 
 # Rôle de l'application
 
