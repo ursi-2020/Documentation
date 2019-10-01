@@ -1,12 +1,14 @@
 [Sommaire](https://ursi-2020.github.io/Documentation/)
 
-[API](api.md)
+*Voici un exemple 
+
+*[API](api.md)*
 
 # Rôle de l'application
 
-Le rôle de l'application est de ...
+Le rôle des urbanistes est de s'assurer que les applications répondent aux spécifications fonctionnelles fournies par les professeurs.
 
-Pour ce faire, elle ... communique avec ...
+Pour ce faire, ils s'assurent de la cohérence de l'architecture du système d'information et de coordonnent les différentes équipes de la classe.
 
 # Use Case
 
