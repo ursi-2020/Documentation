@@ -1,13 +1,18 @@
 [Sommaire](https://ursi-2020.github.io/Documentation/)
 
-# Sections
-
-* [API](api.md)
-* [Communication](communication.md)
-* [Flux](flux.md)
-* [Use Case](use-case.md)
+[API](api.md)
 
 # Rôle de l'application
 
-Le rôle de ... est de ... dans le système d'information.
-etc.
+Le rôle de l'application est de ...
+
+Pour ce faire, elle ... communique avec ...
+
+# Use Case
+
+[use case](img/use-case.png)
+
+# Membre du groupe
+
+* Léo Menschenfreund
+* Mikaël Simarik

@@ -17,6 +17,7 @@
 
 * [Documentation technique](https://ursi-2020.github.io/technical-base/)
 * [Création de documentation](create-doc.md)
+* [Exemple de documentation](archi-doc/index.md)
 
 # Overview diagram
 
