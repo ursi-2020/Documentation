@@ -10,7 +10,7 @@ Pour ce faire, elle ... communique avec ...
 
 # Use Case
 
-[use case](img/use-case.png)
+![use case](img/use-case.png)
 
 # Membre du groupe
 
