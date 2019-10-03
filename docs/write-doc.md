@@ -13,4 +13,5 @@
 * Application: Catalogue
 * Use cases fonctionnels: Récupérer l'ensemble du catalogue
 * Story technique:
+
 ![story-technique](img/story-tech.PNG)
