@@ -11,6 +11,10 @@
 * [Gestion stock](https://ursi-2020.github.io/gestion-stock)
 * [Magasin](https://ursi-2020.github.io/gestion-magasin)
 
+# Spécifications techniques
+
+* [Données](data.md)
+
 # Liste des guides
 
 * [Documentation technique](https://ursi-2020.github.io/technical-base/)
